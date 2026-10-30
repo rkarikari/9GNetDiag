@@ -4,7 +4,8 @@
 See what your phone is really doing — CPU, GPU, memory, temperatures, battery power, compass, GPS, clock accuracy,
 every sensor, and the busiest apps — and diagnose any Wi-Fi, mobile or internet problem, all in one app.
 
-*Copyright © R.N.K 9G5AR, RadioSport · Version 1.04*
+### by RadioSport
+![9GNetDiag](https://raw.githubusercontent.com/rkarikari/9GNetDiag/main/images/9gnetdiag.jpg)
 
 ---
 
