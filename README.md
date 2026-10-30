@@ -247,4 +247,4 @@ The app uses the open-source Shizuku API (Apache License 2.0) and AndroidX / Jet
 
 ---
 
-*9GNetDiag — Copyright © R.N.K 9G5AR, RadioSport. Developers: see `BUILDING.md`.*
+*9GNetDiag — Copyright © R.N.K 9G5AR, RadioSport. *
